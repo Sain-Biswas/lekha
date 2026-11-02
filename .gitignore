@@ -1,0 +1,7 @@
+node_modules
+.turbo
+dist
+.vscode/*
+!.vscode/settings.json
+.env*
+.env.example
